@@ -28,7 +28,7 @@ ENABLE_NO_CLIP_SOUND = true
 
 local eps = 0.01
 
--- Variables --
+---- Variables ----
 local isNoClipping = false
 local playerPed = PlayerPedId()
 local playerId = PlayerId()
