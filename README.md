@@ -7,7 +7,7 @@ Admin Menu Inspired from vMenu
 - ox_lib - https://github.com/overextended/ox_lib
 - menuv - https://github.com/ThymonA/menuv
 - zf-context - https://github.com/zf-development/zf_context
-- okokTextUI (Not Important) / Will be replaced
+- cd_drawtextui - https://github.com/dsheedes/cd_drawtextui
 - oxmysql is needed
 
 ## Credits 
