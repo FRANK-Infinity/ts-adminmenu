@@ -6,12 +6,15 @@ description 'TS Admin Menu'
 lua54 'yes'
 
 
-shared_script 'config.lua'
 files({
 	"ui/*",
 })
 
 ui_page("ui/index.html")
+
+shared_scripts {
+    'config.lua'
+}
 
 client_scripts {
 	'@pe-lualib/init.lua',
@@ -27,5 +30,3 @@ server_scripts {
 	'server/server.lua',
 	'server/spectate_serv.lua'
 }
-
-

@@ -25,3 +25,6 @@ Admin Menu Inspired from vMenu
 - Reduce Server Side Load on initialization
 - Make it standalone with config option for ESX
 - Remove okokTextUI and use free to use alternative
+
+## ADDED
+- Config OpenAdminmenu,ToggleNoClipMode,OpenMenuDefultKey,OpenMenuNoclipDefultKey,announce,sjob
